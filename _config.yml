@@ -1,14 +1,11 @@
-title: Cyrus Mante # your name (or website title) here
+title: Jan Joshua C. Aus # your name (or website title) here
 logo: "assets/img/portfolio_pic.jpg?raw=True" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  A B.S. Computer Science graduate of University of the East - Caloocan and an aspiring Data Scientist and AI/ML Engineer with experience on working with Computer Vision, Natural Language Processing, and Machine Learning. I am passionate about learning new technologies and applying them to solve real-world problems. 
+  A B.S. Computer Science graduate of UE Caloocan and an aspiring Data Scientist and AI/ML Engineer with experience on working with Computer Vision and Machine Learning
   <br><br>
   Email: <a href="mailto:ausjanjoshua0@gmail.com">ausjanjoshua0@gmail.com</a>
   <br><br>
   <a href="https://linktr.ee/janjoshuaaus">Let's connect</a> 
   
 theme: jekyll-theme-minimal
-
-colors:
-  crimson: '#900C3F'
