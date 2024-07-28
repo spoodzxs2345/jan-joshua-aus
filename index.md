@@ -37,7 +37,7 @@ This project developed a custom YOLOv8 object detection model specifically desig
 ---
 
 ### Predictive Analysis on Customer Buying Behavior
-This project involved building a Random Forest model to predict customer purchasing patterns. By analyzing customer data, the model aims to identify future buying trends, enabling businesses to make informed decisions and optimize their marketing strategies. This project was undertaken as part of a Virtual Experience Program with British Airways through Forage.
+A Random Forest model was developed to forecast customer purchasing patterns based on historical data. The model aims to empower businesses with data-driven insights for targeted marketing strategies. The results indicate that the time interval between booking and flight departure is a crucial factor in predicting customer behavior, while route features and booking origins had minimal impact on the model's accuracy. This project was conducted as part of a Virtual Experience Program with British Airways.
 
 <img src="assets/img/ba_predictive_analysis.png?raw=true">
 
@@ -48,7 +48,7 @@ This project involved building a Random Forest model to predict customer purchas
 ---
 
 ### Customer Reviews Sentiment Analysis
-This project applied Natural Language Processing (NLP) techniques to analyze customer reviews and determine overall sentiment towards British Airways. By extracting key insights from the text data, the project aimed to provide actionable feedback to the airline to enhance their services. This work was completed as part of a Virtual Experience Program with British Airways through Forage.
+This project employed Natural Language Processing (NLP) techniques to analyze customer reviews for British Airways and determine overall sentiment. By extracting key insights from the text data, the project aimed to provide actionable feedback to the airline to enhance their services. Interestingly, while the overall sentiment was neutral, the analysis revealed a balance of subjective and objective comments, suggesting a mix of personal experiences and general knowledge about the airline's operations. This work was completed as part of a Virtual Experience Program with British Airways through Forage.
 
 <img src="assets/img/ba_sentiment_analysis.png?raw=true">
 <img src="assets/img/ba_sentiment_analysis_2.png?raw=true">
